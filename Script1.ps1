@@ -1,1 +1,1 @@
-
+Write-Output "Script"
