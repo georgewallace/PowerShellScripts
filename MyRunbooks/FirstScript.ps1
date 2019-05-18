@@ -1,2 +1,5 @@
-Write-Output "First Script"
-.\SecondScript.ps1
+param
+(
+[string]$string1
+)
+Write-Output $string1
